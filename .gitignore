@@ -1,0 +1,4 @@
+# .gitignore file tells git which files (or patterns) it should ignore.
+# This is useful for files that are automatically generated during your build process, such as compiled source code, temporary files from the editor you use, or log files.
+# For example: node_modules should be ignored because it is a directory that is generated when you run npm install
+node_modules
