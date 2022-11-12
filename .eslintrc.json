@@ -47,7 +47,7 @@
 		"for-direction": 2,
 		"func-call-spacing": 2,
 		"func-name-matching": 2,
-		"func-names": 2,
+		"func-names": 0,
 		"func-style": 0,
 		"function-paren-newline": 2,
 		"generator-star-spacing": 2,
@@ -273,10 +273,6 @@
 		"quote-props": [
 			1,
 			"as-needed"
-		],
-		"quotes": [
-			"error",
-			"single"
 		],
 		"radix": 2,
 		"require-atomic-updates": 2,

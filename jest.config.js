@@ -1,14 +1,11 @@
 // Jest config
 module.exports = {
   roots: ['<rootDir>/src'],
-  setupFiles: [
-    '<rootDir>/jest/globals-setup.js'
-  ],
+  setupFiles: [],
   testPathIgnorePatterns: [
     '/node_modules/',
     '/dist/',
-    '/jest/',
-    '/src/database/migrations/'
+    '/jest/'
   ],
   testTimeout: 15000
 };
